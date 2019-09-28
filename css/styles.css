@@ -41,7 +41,7 @@ h3 {
 /*  Jumbotron */
 
 .jumbotron {
-    background-image: url(/img/hero.jpg);
+    background-image: url(../img/hero.jpg);
     background-size: cover;
     height: 33em;
 }
